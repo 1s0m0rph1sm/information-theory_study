@@ -1,4 +1,6 @@
-# Information-theory_study
+# information-theory_study
 
-## Participant
+# reference
+
+## participant
 [Lee Wonho](https://github.com/asuan99)

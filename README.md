@@ -5,8 +5,9 @@
   [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
 
 ## participant
-[Lee Wonho](https://github.com/asuan99)
+[Lee Wonho](https://github.com/asuan99), [Kim DongHyeon](https://github.com/mathno1), [Kim Hongjin](https://github.com/Gimongjin)
 
-[Kim DongHyeon](https://github.com/mathno1) 
 
-[Kim Hongjin](https://github.com/Gimongjin)
+<a href="https://github.com/asuan99/information-theory_study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=asuan99/information-theory_study" />
+</a>
